@@ -1,0 +1,3 @@
+/Users/chovi/Documents/Neat Huffman/cmake-build-debug/CMakeFiles/Neat_Huffman.dir
+/Users/chovi/Documents/Neat Huffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chovi/Documents/Neat Huffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
