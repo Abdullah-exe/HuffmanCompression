@@ -1,14 +1,15 @@
 # Huffman Encoding and Decoding with Compression
 This program implements Huffman encoding and decoding techniques along with an option for decryption without encryption. Huffman encoding is a popular algorithm used for lossless data compression, particularly in applications where text data needs to be compressed efficiently.
 
-Table of Contents:
-Introduction
-File Descriptions
-Usage Instructions
-Compression Process
-Introduction
+Table of Contents:<br>
+Introduction<br>
+File Descriptions<br>
+Usage Instructions<br>
+Compression Process<br>
 
 
+
+Introduction<br>
 Huffman coding is a method used to compress data without losing any information. It works by assigning variable-length codes to input characters, with shorter codes assigned to more frequent characters. This encoding scheme minimizes the total number of bits required to represent the original data.
 
 The program consists of the following components:
